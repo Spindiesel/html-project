@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+#memeimage{
+    border:10px solid white;
+}
+
+.text{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    margin: 50px;
+    text-transform: uppercase;    
+}
+#bruh{
+    text-transform: lowercase;
+}
+
+#memeimage{
+    width: 50%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    margin-left: 25%;
+    margin-top:5%;
+    size:50%;
+    
+}
+
